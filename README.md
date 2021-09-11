@@ -25,7 +25,8 @@
 * nitrogen (wallpaper setter)
 * rofi (app launcher)
 * and xorg 
- 
+
+# Keybindings
 
 |        Keybind         |                 Function                       |
 | ---------------------- | ---------------------------------------------- |
@@ -46,3 +47,7 @@
 | `Shift + Ctrl + T`     | Make a floating window tiled                   |
 | `For More ShortCuts see the xmonad config file in /home/$USER/.xmonad/` |
 | `xmonad.hs`                                                             |
+
+# Troubleshootimg
+
+* if any problem mail your problem to olxclone2007@gmail.com

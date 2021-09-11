@@ -5,12 +5,14 @@
 
 ![alt text](https://github.com/olxclone/xmonad-configs/blob/main/readme.png)
 
-# Requirements
+# * Requirements
   A system with arch liux base installed / manjaro linux
   or any of the arch based linux distro
   
-# Installation
+# * Installation
  
 * Clone the git repo
 * run the install.sh file 
 * it will automatically install the desktop
+
+#

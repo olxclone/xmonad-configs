@@ -42,7 +42,7 @@
 | `Win + Shift + Z`      | Dectivate inhibitor (Enables autolocking)      |
 | `Win + Ctrl + G`       | Toggle gaps (toggle to get screen space)       |         
 | `Shift + Ctrl + j`     | navigate through windows                       |
-| `Win + K`              | Navigate through windows                       |
-| `Win + T`              | Make a floating window tiled                   |
+| `Shift + Ctrl + K`     | Navigate through windows                       |
+| `Shift + Ctrl + T`     | Make a floating window tiled                   |
 | `For More ShortCuts see the xmonad config file in /home/$USER/.xmonad/` |
 | `xmonad.hs`                                                             |

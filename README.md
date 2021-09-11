@@ -11,6 +11,6 @@
   
 # Installation
  
- Clone the git repo
- run the install.sh file 
- it will automatically install the desktop
+* Clone the git repo
+* run the install.sh file 
+* it will automatically install the desktop

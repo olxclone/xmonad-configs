@@ -1,0 +1,211 @@
+[2021-09-05 15:57:40.950] [exthost] [info] extension host started
+[2021-09-05 15:57:40.951] [exthost] [info] Skipping acquiring lock for /home/madan/.config/Code/User/workspaceStorage/33a55a27769e16be9d149cc675eed61b.
+[2021-09-05 15:57:41.189] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-09-05 15:57:41.189] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-09-05 15:57:41.220] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-05 15:57:41.220] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-09-05 15:57:41.227] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-05 15:57:41.228] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-09-05 15:57:42.171] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-05 15:57:42.172] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-09-05 15:57:42.303] [exthost] [info] eager extensions activated
+[2021-09-05 15:57:42.368] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-05 15:57:42.368] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-05 15:57:42.569] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-05 15:57:42.569] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-05 15:57:42.579] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-05 15:57:42.579] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-05 15:57:42.792] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-09-05 15:57:42.792] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-09-05 15:58:18.636] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-09-05 15:58:19.643] [exthost] [info] exiting with code 0
+[2021-09-05 15:58:20.559] [exthost] [info] extension host started
+[2021-09-05 15:58:20.559] [exthost] [info] Skipping acquiring lock for /home/madan/.config/Code/User/workspaceStorage/b8501c2be47f0dbcf50114eda7d51488.
+[2021-09-05 15:58:20.601] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-09-05 15:58:20.602] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-09-05 15:58:20.626] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-05 15:58:20.627] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-09-05 15:58:20.629] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-05 15:58:20.629] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-09-05 15:58:20.659] [exthost] [info] ExtensionService#_doActivateExtension Dart-Code.dart-code {"startup":true,"extensionId":{"value":"Dart-Code.dart-code","_lower":"dart-code.dart-code"},"activationEvent":"workspaceContains:pubspec.yaml"}
+[2021-09-05 15:58:20.659] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension
+[2021-09-05 15:58:20.943] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-05 15:58:20.943] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-09-05 15:58:20.961] [exthost] [info] ExtensionService#_doActivateExtension Dart-Code.flutter {"startup":false,"extensionId":{"value":"Dart-Code.dart-code","_lower":"dart-code.dart-code"},"activationEvent":"api"}
+[2021-09-05 15:58:20.961] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/madan/.vscode/extensions/dart-code.flutter-3.26.0/out/src/extension
+[2021-09-05 15:58:20.979] [exthost] [info] eager extensions activated
+[2021-09-05 15:58:21.221] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-05 15:58:21.222] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-05 15:58:21.387] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-05 15:58:21.388] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-05 15:58:21.397] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-05 15:58:21.397] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-05 15:58:21.508] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-09-05 15:58:21.508] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-09-05 15:59:03.554] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2021-09-05 15:59:03.554] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-09-05 15:59:03.559] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2021-09-05 15:59:03.559] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-09-05 15:59:03.617] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2021-09-05 15:59:03.617] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-09-05 15:59:03.660] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2021-09-05 15:59:03.660] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/npm/dist/npmMain
+[2021-09-05 15:59:37.231] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":false,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-09-05 15:59:37.231] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/madan/.vscode/extensions/pkief.material-icon-theme-4.10.0/dist/extension
+[2021-09-05 15:59:38.844] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-05 15:59:38.844] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-09-05 15:59:52.846] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-09-05 15:59:52.846] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32929:24)
+	at LanguageClient.handleFailedRequest (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32919:28)
+	at /home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:31494:39
+	at runNextTicks (internal/process/task_queues.js:58:5)
+	at processImmediate (internal/timers.js:434:9)
+[2021-09-05 15:59:56.386] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-09-05 15:59:56.390] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32929:24)
+	at LanguageClient.handleFailedRequest (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32919:28)
+	at /home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:34285:39
+	at async fe.provideFoldingRanges (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:183159)
+[2021-09-05 16:00:59.022] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-09-05 16:00:59.022] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32929:24)
+	at LanguageClient.handleFailedRequest (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32919:28)
+	at /home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:34285:39
+	at runMicrotasks (<anonymous>)
+	at runNextTicks (internal/process/task_queues.js:58:5)
+	at processImmediate (internal/timers.js:434:9)
+	at async fe.provideFoldingRanges (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:183159)
+[2021-09-05 16:01:32.579] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-09-05 16:01:32.580] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32929:24)
+	at LanguageClient.handleFailedRequest (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32919:28)
+	at /home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:31378:39
+	at async l.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-09-05 16:01:34.082] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-09-05 16:01:34.082] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32929:24)
+	at LanguageClient.handleFailedRequest (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32919:28)
+	at /home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:31378:39
+	at async l.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-09-05 16:01:39.955] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-09-05 16:01:39.955] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32929:24)
+	at LanguageClient.handleFailedRequest (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32919:28)
+	at /home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:31378:39
+	at async l.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-09-05 16:02:01.621] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-09-05 16:02:01.621] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32929:24)
+	at LanguageClient.handleFailedRequest (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32919:28)
+	at /home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:31134:43
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-05 16:02:01.707] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-09-05 16:02:01.707] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32929:24)
+	at LanguageClient.handleFailedRequest (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32919:28)
+	at /home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:31134:43
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-05 16:02:23.579] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-09-05 16:02:23.579] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32929:24)
+	at LanguageClient.handleFailedRequest (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32919:28)
+	at /home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:31494:39
+[2021-09-05 16:02:23.579] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-09-05 16:02:23.579] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32929:24)
+	at LanguageClient.handleFailedRequest (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32919:28)
+	at /home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:34285:39
+	at runMicrotasks (<anonymous>)
+	at runNextTicks (internal/process/task_queues.js:58:5)
+	at processImmediate (internal/timers.js:434:9)
+	at async fe.provideFoldingRanges (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:183159)
+[2021-09-05 16:02:24.462] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-09-05 16:02:24.462] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32929:24)
+	at LanguageClient.handleFailedRequest (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32919:28)
+	at /home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:31494:39
+[2021-09-05 16:02:24.463] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-09-05 16:02:24.463] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32929:24)
+	at LanguageClient.handleFailedRequest (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32919:28)
+	at /home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:31494:39
+[2021-09-05 16:02:24.908] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-09-05 16:02:24.908] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32929:24)
+	at LanguageClient.handleFailedRequest (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32919:28)
+	at /home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:31494:39
+[2021-09-05 16:02:28.772] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-09-05 16:02:28.772] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32929:24)
+	at LanguageClient.handleFailedRequest (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32919:28)
+	at /home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:31134:43
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-05 16:02:30.566] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-09-05 16:02:30.566] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32929:24)
+	at LanguageClient.handleFailedRequest (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32919:28)
+	at /home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:31494:39
+[2021-09-05 16:02:51.460] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-09-05 16:02:51.460] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32929:24)
+	at LanguageClient.handleFailedRequest (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32919:28)
+	at /home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:31494:39
+[2021-09-05 16:02:58.969] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-09-05 16:02:58.969] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32929:24)
+	at LanguageClient.handleFailedRequest (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32919:28)
+	at /home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:31171:39
+[2021-09-05 16:02:59.596] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-09-05 16:02:59.596] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32929:24)
+	at LanguageClient.handleFailedRequest (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32919:28)
+	at /home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:31494:39
+[2021-09-05 16:03:01.452] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-09-05 16:03:01.452] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32929:24)
+	at LanguageClient.handleFailedRequest (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32919:28)
+	at /home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:31494:39
+[2021-09-05 16:03:03.045] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-09-05 16:03:03.045] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32929:24)
+	at LanguageClient.handleFailedRequest (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32919:28)
+	at /home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:31494:39
+[2021-09-05 16:03:18.384] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-09-05 16:03:18.384] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32929:24)
+	at LanguageClient.handleFailedRequest (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32919:28)
+	at /home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:31134:43
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-05 16:03:24.537] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-09-05 16:03:24.537] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32929:24)
+	at LanguageClient.handleFailedRequest (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32919:28)
+	at /home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:31494:39
+[2021-09-05 16:03:39.124] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-09-05 16:03:39.125] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32929:24)
+	at LanguageClient.handleFailedRequest (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32919:28)
+	at /home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:31494:39
+[2021-09-05 16:03:41.493] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-09-05 16:03:41.493] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32929:24)
+	at LanguageClient.handleFailedRequest (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32919:28)
+	at /home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:31494:39
+[2021-09-05 16:03:45.487] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-09-05 16:03:45.487] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32929:24)
+	at LanguageClient.handleFailedRequest (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32919:28)
+	at /home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:31494:39
+[2021-09-05 16:03:45.493] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-09-05 16:03:45.494] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32929:24)
+	at LanguageClient.handleFailedRequest (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32919:28)
+	at /home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:31134:43
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-05 16:04:10.138] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-09-05 16:04:10.138] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32929:24)
+	at LanguageClient.handleFailedRequest (/home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:32919:28)
+	at /home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension.js:31134:43
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)

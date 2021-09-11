@@ -1,0 +1,29 @@
+background_opacity : 0.7
+font:
+  # The normal (roman) font face to use.
+  # Style can be specified to pick a specific face.
+  normal:
+    family: Hack NF  
+    style: Light
+    # family: "Fira Code"
+    # family: "Source Code Pro"
+    style: Bold
+
+  # The bold font face
+  bold:
+    family: Fira Code iScript
+    style: Medium
+    # family: "Fira Code"
+    # family: "Source Code Pro"
+
+  # The italic font face
+  italic:
+    family: Fira Code iScript
+    style: "Light Italic"
+    # style: "Light Oblique"
+    # family: "Fira Code"
+    # family: "Source Code Pro"
+    # style: "Medium Italic"
+
+  # Point size of the font
+  size: 10.0

@@ -1,0 +1,8 @@
+[2021-09-05 18:48:28.066] [sharedprocess] [info] Deleted from disk vscodevim.vim /home/madan/.vscode/extensions/vscodevim.vim-1.21.7
+[2021-09-05 18:48:35.565] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-09-05 18:48:35.567] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210904T221519, 20210904T222657'
+[2021-09-05 18:48:55.566] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-09-05 18:48:55.566] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-09-05 18:49:05.566] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-09-05 19:02:36.911] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-09-05 19:03:40.959] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds

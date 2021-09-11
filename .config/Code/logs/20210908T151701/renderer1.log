@@ -1,0 +1,3 @@
+[2021-09-08 15:17:12.710] [renderer1] [error] Error: Unable to resolve non-existing file 'vscode-userdata:/home/madan/.config/Code/Backups/1631094423252/file/-117c5129'
+    at ci.resolve (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:609:12188)
+    at async Object.factory (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2382:15476)

@@ -1,0 +1,30 @@
+{
+  "coc.preferences.formatOnSaveFiletypes": ["css", "markdown","typescript","typescriptreact", "javascript", "graphql", "html", "yaml",  "json", "python"],
+  "pairs.enableCharacters": [
+    "(",
+    "[",
+    "{",
+    "'",
+    "\"",
+    "`"
+  ],
+  // python config
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": true,
+
+  "snippets.ultisnips.directories":
+  [
+    "UltiSnips",
+    "~/.config/nvim/utils/snips"
+  ],
+{
+"prettier.singleQuote": false,
+"eslint.run": "onType",
+"prettier.jsxSingleQuote": false,
+"tsserver.formatOnType": true,
+"eslint.format.enable": true,
+"tsserver.enableJavascript": true,
+"eslint.autoFixOnSave": true,
+  "eslint.filetypes": ["javascript", "javascriptreact", "typescript", "typescriptreact"]
+}
+};

@@ -1,0 +1,33 @@
+{
+    "workbench.colorTheme": "Palenight Operator",
+    "editor.fontFamily": "Fira Code iScript",
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "bold",
+    "editor.fontSize": 16,
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": [
+                //following will be in italic (=FlottFlott)
+                    "comment",
+                    "entity.name.type.class", //class names
+                    "keyword", //import, export, return…
+                    "storage.modifier", //static keyword
+                    "storage.type", //class keyword
+                    "support.class.builtin",
+                    "keyword.control",
+                    "constant.language",
+                    "entity.other.attribute-name",
+                    "string.quoted.single",
+                    "entity.name.method",
+                    "entity.name.tag"
+                ],
+                "settings": {
+                    "fontStyle": "italic",
+                }
+            }
+        ]
+    },
+    "workbench.iconTheme": "material-icon-theme"
+}
+

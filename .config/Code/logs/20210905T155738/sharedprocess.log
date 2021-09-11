@@ -1,0 +1,14 @@
+[2021-09-05 15:57:50.828] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-09-05 15:57:50.831] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210904T220526'
+[2021-09-05 15:58:10.830] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-09-05 15:58:10.831] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-09-05 15:58:20.828] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-09-05 15:59:10.693] [sharedprocess] [info] Uninstalling extension: vscodevim.vim
+[2021-09-05 15:59:11.026] [sharedprocess] [info] Detected extension removed from another source vscodevim.vim
+[2021-09-05 15:59:11.336] [sharedprocess] [info] Successfully uninstalled extension: vscodevim.vim
+[2021-09-05 15:59:33.912] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2021-09-05 15:59:36.018] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /home/madan/.config/Code/CachedExtensionVSIXs/pkief.material-icon-theme-4.10.0
+[2021-09-05 15:59:36.995] [sharedprocess] [info] Extracted extension to /home/madan/.vscode/extensions/.fdba085f-3ef4-4acc-acbd-7c70bc95c4a4: pkief.material-icon-theme
+[2021-09-05 15:59:37.042] [sharedprocess] [info] Renamed to /home/madan/.vscode/extensions/pkief.material-icon-theme-4.10.0
+[2021-09-05 15:59:37.044] [sharedprocess] [info] Extracting completed. pkief.material-icon-theme
+[2021-09-05 15:59:37.093] [sharedprocess] [info] Extension installed successfully: pkief.material-icon-theme

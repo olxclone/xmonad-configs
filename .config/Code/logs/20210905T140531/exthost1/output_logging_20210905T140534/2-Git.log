@@ -1,0 +1,62 @@
+Validating found git in: git
+Using git 2.33.0 from git
+Opening repository for path='/home/madan/.xmonad' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/madan/.xmonad' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/madan/.xmonad/README.org' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/madan/.xmonad/pacman-hooks' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/madan/.xmonad/xmonad-example-configs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/madan/.xmonad/xmonad-log' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/madan/.xmonad/xmonad-x86_64-linux' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/madan/.xmonad/xmonad.errors' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/madan/.xmonad/xmonad.hi' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/madan/.xmonad/xmonad.hs' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/madan/.xmonad/xmonad.hs.save' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/madan/.xmonad/xmonad.hs.save.1' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/madan/.xmonad/xmonad.o' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/madan/.xmonad/xmonad_keys.sh' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/madan/.xmonad/xmonadctl.hs' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/madan/.xmonad/xpm' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/madan/.xmonad' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/madan/.xmonad' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}

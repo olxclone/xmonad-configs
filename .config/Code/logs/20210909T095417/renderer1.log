@@ -1,0 +1,9 @@
+[2021-09-09 09:54:19.196] [renderer1] [error] Error: Unable to read file '/home/madan/Documents/photogram_chat/lib/Pages/Auth/something.dart' (Error: Unable to resolve non-existing file '/home/madan/Documents/photogram_chat/lib/Pages/Auth/something.dart')
+    at i.handleSetInputError (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:172185)
+    at i.handleSetInputError (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:176202)
+    at i.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:171879)
+    at async h.doSetInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:33390)
+    at async h.doOpenEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:31790)
+    at async h.openEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:31438)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2584:16931
+[2021-09-09 09:54:33.141] [renderer1] [info] [lifecycle]: Shutdown was prevented (id: veto.backups)

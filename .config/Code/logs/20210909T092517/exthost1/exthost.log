@@ -1,0 +1,44 @@
+[2021-09-09 09:25:31.157] [exthost] [info] extension host started
+[2021-09-09 09:25:31.226] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-09-09 09:25:31.226] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-09-09 09:25:31.304] [exthost] [info] ExtensionService#_doActivateExtension Dart-Code.dart-code {"startup":false,"extensionId":{"value":"Dart-Code.dart-code","_lower":"dart-code.dart-code"},"activationEvent":"onLanguage:dart"}
+[2021-09-09 09:25:31.304] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/madan/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension
+[2021-09-09 09:25:31.487] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-09 09:25:31.487] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-09-09 09:25:31.681] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-09 09:25:31.681] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-09-09 09:25:31.996] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-09-09 09:25:31.996] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/madan/.vscode/extensions/pkief.material-icon-theme-4.10.0/dist/extension
+[2021-09-09 09:25:32.654] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-09 09:25:32.654] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-09-09 09:25:32.827] [exthost] [info] eager extensions activated
+[2021-09-09 09:25:32.827] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-09 09:25:32.827] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-09 09:25:34.148] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-09 09:25:34.148] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-09 09:25:34.489] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-09 09:25:34.489] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-09 09:25:34.739] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-09-09 09:25:34.739] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-09-09 09:25:35.041] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-09-09 09:25:35.054] [exthost] [error] Activating extension vscode.github-authentication failed due to an error:
+[2021-09-09 09:25:35.054] [exthost] [error] Canceled: Canceled
+	at Object.n [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:8805
+	at Array.forEach (<anonymous>)
+	at i.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:8753)
+	at E.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:682)
+	at a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:32208)
+	at Socket.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:29858)
+	at Socket.emit (events.js:327:22)
+	at Pipe.<anonymous> (net.js:673:12)
+[2021-09-09 09:25:35.364] [exthost] [error] ProxyResolver#resolveProxy Canceled: Canceled
+	at Object.n [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+	at i._remoteCall (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13617)
+	at Proxy.N.<computed>.G.charCodeAt.N.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10012)
+	at y.resolveProxy (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:38921)
+	at Object.resolveProxy (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:57892)
+	at useProxySettings (/opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:159:16)
+	at /opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:107:13
+	at /opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:335:13 
+[2021-09-09 09:25:36.053] [exthost] [info] exiting with code 0

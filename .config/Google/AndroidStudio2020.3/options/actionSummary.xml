@@ -1,0 +1,43 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="Android.BuildApk">
+      <i c="1" l="1631094352365" />
+    </e>
+    <e n="Android.GenerateSignedApk">
+      <i c="1" l="1631095136731" />
+    </e>
+    <e n="CleanGradleProject">
+      <i c="2" l="1631094966490" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="3" l="1631095168700" />
+    </e>
+    <e n="EditorCopy">
+      <i c="5" l="1631094374805" />
+    </e>
+    <e n="Exit">
+      <i c="1" l="1631094399257" />
+    </e>
+    <e n="OpenFile">
+      <i c="4" l="1631187327174" />
+    </e>
+    <e n="Run">
+      <i c="4" l="1631187699980" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="2" l="1631022550490" />
+    </e>
+    <e n="WelcomeScreen.RunAndroidAvdManager">
+      <i c="1" l="1630681795057" />
+    </e>
+    <e n="WelcomeScreen.RunAndroidSdkManager">
+      <i c="2" l="1630681791177" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="4" l="1631023794783" />
+    </e>
+    <e n="com.intellij.openapi.updateSettings.impl.UpdateChecker$showUpdateResult$5$2">
+      <i c="1" l="1630681450816" />
+    </e>
+  </component>
+</application>

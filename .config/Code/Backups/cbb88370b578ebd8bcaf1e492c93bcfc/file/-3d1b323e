@@ -1,0 +1,4 @@
+file:///home/madan/Documents/web3/index.js {"mtime":1631161148420,"ctime":1631161148420,"size":0,"etag":"37g7h00ec0","orphaned":false,"typeId":""}
+const Web3 = require('web3')
+
+const web3 = Web3()

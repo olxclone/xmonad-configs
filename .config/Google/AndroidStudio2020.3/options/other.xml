@@ -1,0 +1,52 @@
+<application>
+  <component name="ProjectPluginTrackerManager">
+    <option name="trackers">
+      <map>
+        <entry key="1xdRos6lMIISAvtaiAETLm34CS2">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1xdZbewaeyc05j7H0qLMGT4CfmW">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1xg3Ozr0w0vwOZSZp30Fbx29771">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1xoXmh7dbbyzbVjst9lhB3KRc9C">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1xtvk4KOG2wzOqpJb53WpWHqcvI">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AndroidInitConfigurator.V1" value="true" />
+    <property name="AndroidInitConfigurator.V3" value="true" />
+    <property name="AndroidInitConfigurator.V5" value="true" />
+    <property name="appcds.runOnSecondStart" value="AI-203.7717.56.2031.7678000-d03c5a7b0992be856e7a38b79ecf4443cab24f8a1e24233c25a9a71ac587a150" />
+    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Documents/photgramChat/android&#10;/home/madan/Documents/Photogram/android/release.jks&#10;/home/madan/Documents/Photogram/android&#10;/home/madan/Documents/photogram_chat/android&#10;/home/madan/Documents" />
+    <property name="file.gist.reindex.count" value="555" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="ide.updates.previous.build.number" value="AI-203.7717.56.2031.7678000" />
+    <property name="installed.kotlin.plugin.version" value="203-1.5.20-release-289-AS7717.8" />
+    <property name="kotlin-gradle-user-dirs" value="$USER_HOME$/.gradle" />
+    <property name="kotlin.plugin.releaseDate" value="203-1.5.20-release-289-AS7717.8:2021-06-24" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Photogram/android" />
+    <property name="newly.installed.api.level" value="29" />
+    <property name="studio.activity.count" value="2" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+</application>
